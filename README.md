@@ -1,1 +1,3 @@
-# ahmad-alif-sulit-no-2
+Program ini berfungsi untuk menghitung penjumlahan dua matriks dengan ukuran yang sama. Pengguna diminta memasukkan jumlah baris, kolom, serta elemen-elemen dari masing-masing matriks. Setelah itu, program menjumlahkan elemen-elemen yang bersesuaian dan menampilkan hasilnya dalam bentuk matriks baru.
+<img width="1082" height="808" alt="Screenshot 2025-11-03 131848" src="https://github.com/user-attachments/assets/614fca0a-9b2c-4e09-988c-3497939f9818" />
+<img width="614" height="718" alt="Screenshot 2025-11-03 131907" src="https://github.com/user-attachments/assets/d8c1a9f1-065c-4b68-9173-03803fc1e928" />
